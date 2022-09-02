@@ -23,6 +23,6 @@
   "dependencies": {
     "jimp": "^0.16.1",
     "lodash": "^4.17.21",
-    "sharp": "^0.29.1"
+    "sharp": "^0.30.5"
   }
 }
